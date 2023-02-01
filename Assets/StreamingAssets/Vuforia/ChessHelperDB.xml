@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<QCARConfig xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="qcar_config.xsd">
+  <Tracking>
+    <ImageTarget name="ChessBord-2" size="4.000000 4.000000" />
+    <ImageTarget name="ChessBord-1" size="4.000000 4.000000" />
+    <ImageTarget name="Turm-w-2" size="4.000000 4.000000" />
+    <ImageTarget name="Turm-w-1" size="4.000000 4.000000" />
+    <ImageTarget name="Pferd-w-2" size="4.000000 4.000000" />
+    <ImageTarget name="Pferd-w-1" size="4.000000 4.000000" />
+    <ImageTarget name="Leufer-w-2" size="4.000000 4.000000" />
+    <ImageTarget name="Leufer-w-1" size="4.000000 4.000000" />
+    <ImageTarget name="Koenig-w" size="4.000000 4.000000" />
+    <ImageTarget name="Dame-w" size="4.000000 4.000000" />
+    <ImageTarget name="Bauer-w-8" size="4.000000 4.000000" />
+    <ImageTarget name="Bauer-w-7" size="4.000000 4.000000" />
+    <ImageTarget name="Bauer-w-6" size="4.000000 4.000000" />
+    <ImageTarget name="Bauer-w-5" size="4.000000 4.000000" />
+    <ImageTarget name="Bauer-w-4" size="4.000000 4.000000" />
+    <ImageTarget name="Bauer-w-3" size="4.000000 4.000000" />
+    <ImageTarget name="Bauer-w-2" size="4.000000 4.000000" />
+    <ImageTarget name="Bauer-w-1" size="4.000000 4.000000" />
+    <ImageTarget name="Turm-s-2" size="4.000000 4.000000" />
+    <ImageTarget name="Turm-s-1" size="4.000000 4.000000" />
+    <ImageTarget name="Pferd-s-2" size="4.000000 4.000000" />
+    <ImageTarget name="Pferd-s-1" size="4.000000 4.000000" />
+    <ImageTarget name="Leufer-s-2" size="4.000000 4.000000" />
+    <ImageTarget name="Leufer-s-1" size="4.000000 4.000000" />
+    <ImageTarget name="Koenig-s" size="4.000000 4.000000" />
+    <ImageTarget name="Dame-s" size="4.000000 4.000000" />
+    <ImageTarget name="Bauer-s-8" size="4.000000 4.000000" />
+    <ImageTarget name="Bauer-s-7" size="4.000000 4.000000" />
+    <ImageTarget name="Bauer-s-6" size="4.000000 4.000000" />
+    <ImageTarget name="Bauer-s-5" size="4.000000 4.000000" />
+    <ImageTarget name="Bauer-s-4" size="4.000000 4.000000" />
+    <ImageTarget name="Bauer-s-3" size="4.000000 4.000000" />
+    <ImageTarget name="Bauer-s-2" size="4.000000 4.000000" />
+    <ImageTarget name="Bauer-s-1" size="4.000000 4.000000" />
+  </Tracking>
+</QCARConfig>

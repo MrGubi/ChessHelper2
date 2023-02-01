@@ -1,0 +1,16 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!1045 &1
+EditorBuildSettings:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Scenes:
+  - enabled: 1
+    path: Assets/Scenes/ChessBoard.unity
+    guid: 9abd9921f8a0386489548547c0cb658c
+  m_configObjects:
+    UnityEditor.XR.ARCore.ARCoreSettings: {fileID: 11400000, guid: e9ce9fdaaf158fd489aa633f0da23040, type: 2}
+    UnityEditor.XR.ARKit.ARKitSettings: {fileID: 11400000, guid: 62a28bff8429f554db70509a17d06230, type: 2}
+    com.unity.xr.magicleap.magic_leap_settings: {fileID: 11400000, guid: ae8baf074693c1245b648496d467f42c, type: 2}
+    com.unity.xr.management.loader_settings: {fileID: 11400000, guid: 2b8c27be66840f042aa50cce75b42bd5, type: 2}
+    com.unity.xr.openxr.settings4: {fileID: 11400000, guid: bf51842d6eed05a49b9dca33fb6a599e, type: 2}

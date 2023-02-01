@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<QCARConfig xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="qcar_config.xsd">
+  <Tracking>
+    <ImageTarget name="BauerS2" size="4.000000 4.000000" />
+    <ImageTarget name="BauerW2" size="4.000000 4.000000" />
+    <ImageTarget name="TurmW" size="0.040000 0.040000" />
+    <ImageTarget name="KoenigW" size="0.040000 0.040000" />
+    <ImageTarget name="LeuferW" size="0.040000 0.040000" />
+    <ImageTarget name="PferdW" size="0.040000 0.040000" />
+    <ImageTarget name="DameW" size="0.040000 0.040000" />
+    <ImageTarget name="BauerW" size="0.040000 0.040000" />
+    <ImageTarget name="Dame" size="0.040000 0.039767" />
+    <ImageTarget name="Turm" size="0.040000 0.039767" />
+    <ImageTarget name="Pferd" size="0.040000 0.039767" />
+    <ImageTarget name="leufer" size="0.040000 0.039767" />
+    <ImageTarget name="Koenig" size="0.040000 0.039767" />
+    <ImageTarget name="Bauer" size="0.040000 0.039844" />
+  </Tracking>
+</QCARConfig>
